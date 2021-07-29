@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Software Enginnering intern at HubSpot and a raising junior (who hasn't been to campus since freshman year) at Georgia Tech.
+
+## For my fellow statophiles
+<a href="https://github.com/therealsharath">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=therealsharath&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therealsharath&layout=compact&langs_count=8&theme=react"/>
+</a>
