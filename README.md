@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Software Enginnering intern at HubSpot and a raising junior (who hasn't been to campus since freshman year) at Georgia Tech.
+## I'm a Software Enginnering intern at HubSpot and a raising junior at Georgia Tech.
 
 ## For my fellow statophiles
 <a href="https://github.com/therealsharath">
