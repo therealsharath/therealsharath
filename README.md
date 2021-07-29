@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Enginnering intern at HubSpot and a rising junior at Georgia Tech.
 
-## For my fellow statophiles
-<a href="https://github.com/therealsharath">
+### For my fellow statophiles 🤓
+<a href="https://github.com/therealsharath" align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=therealsharath&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therealsharath&layout=compact&langs_count=8&theme=react"/>
 </a>
