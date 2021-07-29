@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ### For my fellow arithmophiles 🔢
 <a href="https://github.com/therealsharath" target="_blank">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=therealsharath&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therealsharath&layout=compact&langs_count=8&theme=great-gatsby"/>
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=therealsharath&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+    <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=therealsharath&layout=compact&langs_count=8&theme=great-gatsby"/>
 </a>
