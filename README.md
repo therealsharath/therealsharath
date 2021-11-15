@@ -1,5 +1,4 @@
 # Howdy 👋
-
 <!--
 **therealsharath/therealsharath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm an SWE intern at HubSpot and a rising junior at Georgia Tech.
-### A little more about me? Thought you'd never ask 😭💙
+## I'm an SWE intern at HubSpot and a junior at Georgia Tech.
+### A little more about me? Thought you'd never ask 🥺
 - ⚡ Working (and having a blast) with the CRM Filters FE team at HubSpot!
 - 🤝 Engineering Manager at <a href="https://bitsofgood.org/" target="_blank">Bits of Good</a>, Georgia Tech's Hack4Impact chapter building software for non-profits in Atlanta and beyond.
 - 🤔 I genuinely find it difficult stick to just frontend, backend or algorithmic devlopment cycles, and hence am an aspiring full-stack SWE.
