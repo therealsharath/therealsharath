@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## I'm a junior at Georgia Tech.
 ### A little more about me? Thought you'd never ask 🥺
 - ⚡ Worked (and had a blast) with the CRM Filters FE team at HubSpot for the past 6 months!
-- 🤝 Engineering Manager at <a href="https://bitsofgood.org/" target="_blank">Bits of Good</a>, Georgia Tech's Hack4Impact chapter building software for non-profits in Atlanta and beyond.
+- 🤝 Engineering Manager at <a href="https://bitsofgood.org/" target="_blank">Bits of Good</a>, Georgia Tech's <a href="https://hack4impact.org/">Hack4Impact</a> chapter building software for non-profits in Atlanta and beyond.
 - 🤔 I genuinely find it difficult stick to just frontend, backend or algorithmic devlopment cycles, and hence am an aspiring full-stack SWE.
 - 🔭 I’m currently...
     - Working on updating my (super) outdated <a href="https://palathingal.xyz" target="_blank">website</a>.
