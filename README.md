@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a senior at Georgia Tech.
+## I'm a CS graduate from Georgia Tech
 ### A little more about me? Thought you'd never ask 🥺
-- 🤝 Director of Engineering at <a href="https://bitsofgood.org/" target="_blank">Bits of Good</a>, Georgia Tech's <a href="https://hack4impact.org/">Hack4Impact</a> chapter building software for non-profits in Atlanta and beyond.
 - 😄 Feel free to checkout my favorite (pinned) projects and other repositories; if you find abosolutely anything interesting feel free to reach out to me on <a href="https://www.linkedin.com/in/palathingal/" target="_blank">LinkedIn</a>; I'd love to collaborate and chat about it.
 
 ### For my fellow arithmophiles 🔢
